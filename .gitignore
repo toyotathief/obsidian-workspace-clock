@@ -1,0 +1,10 @@
+# Obsidian vault data
+data.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+
+# Node
+node_modules/
