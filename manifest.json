@@ -1,0 +1,10 @@
+{
+  "id": "workspace-clock",
+  "name": "Workspace Clock",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "A clock + dropdown stopwatch and calendar that lives in the workspace tab.",
+  "author": "toyotathief",
+  "authorUrl": "https://github.com/toyotathief",
+  "isDesktopOnly": false
+}
